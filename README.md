@@ -1,13 +1,11 @@
-git-tutorial
+# GIT TUTORIAL REPOSITORY
 
-============
 
 
 
 Testing GIT functionality
 
 
-CHANGELOG
----------
+## CHANGELOG
 
-20/6/2013: Added text files.
+* 20/6/2013: Added text files.
